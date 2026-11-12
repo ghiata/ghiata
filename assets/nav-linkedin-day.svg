@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214 30" width="100%" height="100%">
+  <rect x="1" y="1" width="212" height="28" rx="8" fill="#FBF9F5" stroke="#D9D0C3" stroke-width="1.2"/>
+  <path d="M 8,1 H 44 V 29 H 8 A 7,7 0 0 1 1,22 V 8 A 7,7 0 0 1 8,1 Z" fill="#C48A2C"/>
+  <text x="22.0" y="19.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.8">IN</text>
+  <text x="129.0" y="19.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="500" fill="#3B352F" text-anchor="middle">linkedin.com/in/stefan-g</text>
+</svg>

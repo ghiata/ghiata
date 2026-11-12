@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 330" width="100%" height="100%">
+  <rect x="1" y="1" width="878" height="328" rx="18" fill="#FBF9F5" stroke="#D9D0C3" stroke-width="1.5"/>
+  <text x="30.0" y="36.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#6F665C" text-anchor="start" letter-spacing="1.6">CAREER  ·  GIT LOG --GRAPH</text>
+  <text x="850.0" y="36.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="500" fill="#A0968A" text-anchor="end" letter-spacing="1.2">AMSTERDAM  ·  NL</text>
+  <line x1="104" y1="74" x2="104" y2="258" stroke="#D9D0C3" stroke-width="1.5"/>
+  <text x="88.0" y="81.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#3B352F" text-anchor="end">2021–now</text>
+  <circle cx="104" cy="77" r="8" fill="none" stroke="#B9572F" stroke-width="1.1" opacity="0.55"/>
+  <circle cx="104" cy="77" r="4.6" fill="#B9572F"/>
+  <text x="122.0" y="82.0" font-family="Newsreader, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="500" fill="#1D1A17" text-anchor="start">Managing Engineer</text>
+  <text x="122.0" y="101.0" font-family="'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.3" font-weight="500" fill="#6F665C" text-anchor="start">Nationale-Nederlanden · people, architecture, delivery</text>
+  <text x="850.0" y="81.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" font-weight="600" fill="#B9572F" text-anchor="end" letter-spacing="0.6">HEAD → main</text>
+  <text x="88.0" y="125.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#6F665C" text-anchor="end">2018–2021</text>
+  <circle cx="104" cy="121" r="4.4" fill="#FBF9F5" stroke="#6F665C" stroke-width="1.5"/>
+  <text x="122.0" y="126.0" font-family="Newsreader, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="500" fill="#1D1A17" text-anchor="start">Technical Lead</text>
+  <text x="122.0" y="145.0" font-family="'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.3" font-weight="500" fill="#6F665C" text-anchor="start">Nationale-Nederlanden · Vue, Node.js, AWS, CloudFormation</text>
+  <text x="88.0" y="169.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#6F665C" text-anchor="end">2018–2019</text>
+  <circle cx="104" cy="165" r="4.4" fill="#FBF9F5" stroke="#6F665C" stroke-width="1.5"/>
+  <text x="122.0" y="170.0" font-family="Newsreader, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="500" fill="#1D1A17" text-anchor="start">Software Engineer</text>
+  <text x="122.0" y="189.0" font-family="'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.3" font-weight="500" fill="#6F665C" text-anchor="start">ING · Angular, Spring, Kafka, credit-card lifecycle</text>
+  <text x="88.0" y="213.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#6F665C" text-anchor="end">2014–2018</text>
+  <circle cx="104" cy="209" r="4.4" fill="#FBF9F5" stroke="#6F665C" stroke-width="1.5"/>
+  <text x="122.0" y="214.0" font-family="Newsreader, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="500" fill="#1D1A17" text-anchor="start">Software Engineer</text>
+  <text x="122.0" y="233.0" font-family="'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.3" font-weight="500" fill="#6F665C" text-anchor="start">ABN AMRO via Capgemini · corporate banking, iDEAL, PSD2</text>
+  <text x="88.0" y="257.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#6F665C" text-anchor="end">2010–2014</text>
+  <circle cx="104" cy="253" r="4.4" fill="#FBF9F5" stroke="#6F665C" stroke-width="1.5"/>
+  <text x="122.0" y="258.0" font-family="Newsreader, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="500" fill="#1D1A17" text-anchor="start">Web Developer</text>
+  <text x="122.0" y="277.0" font-family="'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.3" font-weight="500" fill="#6F665C" text-anchor="start">1&amp;1 Internet, Bucharest · help center, fraud &amp; abuse tooling</text>
+  <text x="850.0" y="257.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" font-weight="600" fill="#A0968A" text-anchor="end" letter-spacing="0.6">tag: v1.0</text>
+  <line x1="30" y1="292" x2="850" y2="292" stroke="#E7E0D6" stroke-width="1"/>
+  <text x="30.0" y="312.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" fill="#A0968A" text-anchor="start">2004–2010</text>
+  <text x="122.0" y="312.0" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="500" fill="#A0968A" text-anchor="start">BSc Informatics  ·  MSc E-Commerce  ·  ASE Bucharest</text>
+</svg>
